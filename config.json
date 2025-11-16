@@ -1,0 +1,19 @@
+{
+  "song": "to_be.wav",
+  "resolution": "128",
+  "duration": 10,
+  "pitch_sensitivity": 299,
+  "tempo_sensitivity": 0.8,
+  "depth": 1,
+  "classes": [649, 818, 620, 763],
+  "num_classes": 4,
+  "sort_classes_by_power": 1,
+  "jitter": 1,
+  "frame_length": 768,
+  "truncation": 1,
+  "smooth_factor": 1,
+  "batch_size": 30,
+  "use_previous_classes": 0,
+  "use_previous_vectors": 0,
+  "output_file": "output.mp4"
+}
